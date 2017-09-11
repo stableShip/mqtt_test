@@ -12,6 +12,6 @@
   "author": "JIE",
   "license": "MIT",
   "dependencies": {
-    "mqtt": "^1.4.0"
+    "mqtt": "^2.12.1"
   }
 }
